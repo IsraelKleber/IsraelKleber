@@ -30,3 +30,7 @@
 <img align = "center" alt = "Israel-Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 <img align = "center" alt = "Israel-Figma" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </div>
+
+##
+
+![Snake animation](https://github.com/IsraelKleber/IsraelKleber/blob/output/github-contribution-grid-snake.svg)
